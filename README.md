@@ -15,8 +15,9 @@
   <div>
     <a href="https://www.birdy02.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=birdy02-com&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    
   </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdy02-com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/birdy02-com/birdy02-com/output/github-contribution-grid-snake-dark.svg">
