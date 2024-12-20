@@ -23,17 +23,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/birdy02-com/birdy02-com/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=birdy02-com&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=birdy02-com&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=birdy02-com&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
-
 </div>
